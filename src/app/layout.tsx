@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "دعوة زفاف أشرف و آمنة",
-  description: "دعوة زفاف أشرف بن روينة و آمنة التريكي",
+  title: "دعوة زفاف",
+  description: "دعوة زفاف أشرف و آمنة",
 };
 
 export default function RootLayout({
