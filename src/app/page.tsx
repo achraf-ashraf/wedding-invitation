@@ -432,7 +432,7 @@ export default function Home() {
                 {/* Quranic Verse - FIRST */}
                 <div className="bg-gradient-to-r from-transparent via-amber-100/60 to-transparent rounded-xl py-4 px-4 mb-5 border-y border-amber-200/50">
                   <p className="text-base sm:text-lg font-ruqaa text-amber-800 leading-relaxed">
-                    ﴿ وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً ﴾
+                    ﴿  وَمِنْ آيَاتِهِ أَنْ خَلَقَ لَكُم مِّنْ أَنْفُسِكُمْ أَزْوَاجًا لِّتَسْكُنُوا إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً ۚ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّقَوْمٍ يَتَفَكَّرُونَ ﴾
                   </p>
                 </div>
                 
@@ -499,10 +499,10 @@ export default function Home() {
               {/* Dinner Event */}
               <EventCard
                 title="حفل العشاء"
-                date="22 يوليو 2026"
-                venue="فضاء لخديجة للأفراح"
+                date="22 جويلية 2026"
+                venue="فضاء للاّ خديجة للأفراح"
                 time="من السابعة مساءً حتى العاشرة ليلاً"
-                extraInfo="حفلة غنائية بعد العشاء"
+                extraInfo="تقام الحفلة الغنائية بعد العشاء"
                 locationUrl={DINNER_LOCATION_URL}
                 icon={
                   <svg className="w-7 h-7 sm:w-8 sm:h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -514,7 +514,7 @@ export default function Home() {
               {/* Wedding Event */}
               <EventCard
                 title="يوم الزفاف"
-                date="24 يوليو 2026"
+                date="24 جويلية 2026"
                 venue="Le Palace Miami Salle des Fêtes"
                 time="من التاسعة مساءً حتى الواحدة صباحاً"
                 locationUrl={WEDDING_LOCATION_URL}
@@ -566,7 +566,7 @@ export default function Home() {
           {/* Copyright */}
           <div className="mt-6 text-center">
             <p className="text-xs font-tajawal text-amber-500">
-              دعوة زفاف أشرف و آمنة © 2026
+              دعوة زفاف © 2026
             </p>
           </div>
         </div>
